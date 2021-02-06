@@ -34,7 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Working around android studio IDE was a bit challenging as the environment was pretty new for me. I have previous experience with Java so that eased the process
 a little bit, but wrapping my head around the use of multiple android libraries, clicklisteners, etc. was challenging at first. I also struggled *a lot* with setting up
-android emulator as my PC has an AMD processor, which caused some technical issue, all of which are resolved by now.
+android emulator as my PC has an AMD processor, which caused some technical issues, all of which are resolved by now.
 
 ## License
 
